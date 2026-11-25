@@ -1,0 +1,21 @@
+# build
+target/
+*.class
+*.jar
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# logs / local run artefacts
+*.log
+*.tmp
+run/
+# keep maven wrapper jar
+!.mvn/wrapper/maven-wrapper.jar
